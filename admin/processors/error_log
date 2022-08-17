@@ -1,0 +1,204 @@
+[04-Nov-2021 19:46:40 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[04-Nov-2021 19:46:51 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[05-Nov-2021 00:01:55 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[06-Nov-2021 22:10:00 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[07-Nov-2021 15:28:47 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[07-Nov-2021 15:28:54 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[07-Nov-2021 15:28:54 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  getimagesize(/home/bencmiyu/public_html/assets/picture/profile-photos/a3acfebb.png): failed to open stream: No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 48
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  Division by zero in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 50
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 58
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 60
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 63
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 67
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 70
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  getimagesize(/home/bencmiyu/public_html/assets/picture/profile-photos/sec.png): failed to open stream: No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 48
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  Division by zero in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 50
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 58
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 60
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 63
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 67
+[17-Nov-2021 21:49:49 Africa/Lagos] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 70
+[18-Nov-2021 10:10:24 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[18-Nov-2021 10:10:29 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[18-Nov-2021 10:10:29 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 22:23:33 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 22:23:33 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 22:23:44 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 22:23:53 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 23:04:17 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:04:17 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:04:17 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:04:17 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:04:17 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:04:26 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:04:26 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:04:26 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:04:26 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:04:26 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:07:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:07:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:07:16 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:07:16 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:07:16 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:11:10 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[19-Nov-2021 23:15:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:15:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:15:16 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:16 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:16 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:15:32 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:15:32 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:15:32 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:32 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:32 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:15:41 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:15:41 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:15:41 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:41 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:15:41 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[19-Nov-2021 23:16:09 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[19-Nov-2021 23:16:09 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[19-Nov-2021 23:16:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:16:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[19-Nov-2021 23:16:09 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[20-Nov-2021 12:14:09 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[20-Nov-2021 12:14:09 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[20-Nov-2021 12:14:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:09 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[20-Nov-2021 12:14:19 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[20-Nov-2021 12:14:19 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[20-Nov-2021 12:14:19 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:19 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:19 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[20-Nov-2021 12:14:28 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[20-Nov-2021 12:14:28 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[20-Nov-2021 12:14:28 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:28 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:28 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[20-Nov-2021 12:14:42 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[20-Nov-2021 12:14:42 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[20-Nov-2021 12:14:42 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:42 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[20-Nov-2021 12:14:42 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[20-Nov-2021 12:14:51 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[05-Dec-2021 21:37:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:09 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:19 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:19 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:43 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:43 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:51 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:37:51 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:39:48 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:39:48 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:40:27 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:40:27 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:40:35 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:40:35 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:41:29 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:41:29 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:45:56 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[05-Dec-2021 21:45:56 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[08-Dec-2021 09:12:38 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[08-Dec-2021 22:59:51 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[08-Dec-2021 22:59:51 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[08-Dec-2021 22:59:51 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[08-Dec-2021 22:59:51 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[08-Dec-2021 22:59:51 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[08-Dec-2021 22:59:57 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[08-Dec-2021 22:59:57 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[08-Dec-2021 22:59:57 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[08-Dec-2021 22:59:57 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[08-Dec-2021 22:59:57 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[06-Jan-2022 23:09:24 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[06-Jan-2022 23:12:47 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[06-Jan-2022 23:12:47 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[06-Jan-2022 23:12:47 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:47 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:47 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[06-Jan-2022 23:12:50 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[06-Jan-2022 23:12:50 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[06-Jan-2022 23:12:50 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:50 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:50 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[06-Jan-2022 23:12:52 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[06-Jan-2022 23:12:52 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[06-Jan-2022 23:12:52 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:52 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[06-Jan-2022 23:12:52 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[07-Jan-2022 10:52:48 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[07-Jan-2022 10:52:57 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[07-Jan-2022 10:52:57 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[08-Jan-2022 10:58:58 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[08-Jan-2022 10:59:15 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_ajax.php on line 7
+[09-Jan-2022 22:39:45 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[09-Jan-2022 22:39:45 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[09-Jan-2022 22:39:45 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[09-Jan-2022 22:39:45 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[09-Jan-2022 22:39:45 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[11-Feb-2022 17:15:42 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$auth in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 5
+[11-Feb-2022 17:15:42 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$user_id in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 6
+[11-Feb-2022 17:15:42 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[11-Feb-2022 17:15:42 Africa/Lagos] PHP Notice:  Trying to get property 'accesslevel' of non-object in /home/bencmiyu/public_html/admin/processors/process_generic.php on line 19
+[11-Feb-2022 17:15:42 Africa/Lagos] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bencmiyu/public_html/admin/processors/process.php on line 47
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  getimagesize(/home/bencmiyu/public_html/assets/picture/profile-photos/screenshot_20220501-164633_1.png): failed to open stream: No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 48
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  Division by zero in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 50
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 58
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 60
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 63
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 67
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 70
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  mime_content_type(/home/bencmiyu/public_html/assets/picture/profile-photos/screenshot_20220501-164633_1.png): failed to open stream: No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 90
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  rename(/home/bencmiyu/public_html/assets/picture/profile-photos/screenshot_20220501-164633_1.png,/home/bencmiyu/public_html/assets/picture/profile-photos/screenshot_20220501-164633_1.): No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 94
+[27-May-2022 22:04:13 Africa/Lagos] PHP Warning:  imagecreatefromgd(/home/bencmiyu/public_html/assets/picture/profile-photos/screenshot_20220501-164633_1.): failed to open stream: No such file or directory in /home/bencmiyu/public_html/admin/functions/fileserver.php on line 100
+[20-Jun-2022 09:44:25 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:44:25 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:44:40 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:44:40 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:44:59 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:44:59 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:47:27 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:47:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/brisebgn/benchmackbanking.com/admin/processors/process.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/brisebgn/benchmackbanking.com/admin/processors/process.php on line 47
+[20-Jun-2022 09:49:44 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:49:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/brisebgn/benchmackbanking.com/admin/processors/process.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/brisebgn/benchmackbanking.com/admin/processors/process.php on line 47
+[20-Jun-2022 09:53:10 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 09:53:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/brisebgn/benchmackbanking.com/admin/processors/process.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/brisebgn/benchmackbanking.com/admin/processors/process.php on line 47
+[20-Jun-2022 10:04:15 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:04:16 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/brisebgn/benchmackbanking.com/admin/processors/process.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/brisebgn/benchmackbanking.com/admin/processors/process.php on line 47
+[20-Jun-2022 10:13:19 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:13:19 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/brisebgn/benchmackbanking.com/admin/processors/process.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/brisebgn/benchmackbanking.com/admin/processors/process.php on line 47
+[20-Jun-2022 10:15:27 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:15:27 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:15:33 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:15:33 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:17:10 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:17:10 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:13 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:13 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:16 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:16 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:20 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:24:20 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bencmiyu_banking'@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:37:09 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:37:09 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:41:17 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:41:17 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:45:37 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
+[20-Jun-2022 10:45:37 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'brisebgn_benchmackbanking '@'localhost' (using password: YES) in /home/brisebgn/benchmackbanking.com/admin/controllers/Generic.php on line 31
