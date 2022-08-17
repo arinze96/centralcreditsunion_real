@@ -5,9 +5,9 @@ class DBCred
   static $local_password = "";
   static $local_server = "localhost";
   static $local_user = "root";
-  static $online_db = "brisebgn_benchmackbanking";
-  static $online_password = "4o=Wsp1E0?3+";
-  static $online_user = "brisebgn_jj";
+  static $online_db = "u130233728_centralcredits";
+  static $online_password = "12121212Ab";
+  static $online_user = "u130233728_centralcredits";
   static $server = "localhost";
   static $local_servers = ['localhost', 'localhost:8080', "127.0.0.1", ""];
   public $backend = "admin/";
