@@ -37,17 +37,19 @@
   <link rel="stylesheet" href="../dashboard/css/vertical-layout-light/style.css">
   <link rel="shortcut icon" href="<?= $company->favicon ?>" />
   
-  <!-- Smartsupp Live Chat script -->
+<!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var _smartsupp = _smartsupp || {};
-_smartsupp.key = '322e4ecd7d7b5f44045b9717ba3c5d3820bceb23';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-})(document);
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/62fded8937898912e963aec1/1ganufp6k';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
 </script>
+<!--End of Tawk.to Script-->
   <style>
     /* The Modal (background) */
     .modal {
