@@ -116,7 +116,7 @@
                       Manage your accounts on the go.
                     </h4>
                     <p>
-                      Download the Benchmark Bank app&nbsp;today.
+                      Download the Centralcreditsunion app&nbsp;today.
                     </p>
 
                     <ul>

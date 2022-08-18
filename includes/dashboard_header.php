@@ -6,7 +6,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Benchmark bank </title>
+  <title>Centralcreditsunion </title>
   <!-- plugins:css -->
    <!-- ../dashboard/vendors/feather/feather.css -->
   <link rel="stylesheet" href="../dashboard/vendors/feather/feather.css">
@@ -476,10 +476,10 @@ window.smartsupp||(function(d) {
         </div>
         <div>
           <a class="navbar-brand brand-logo" href="<?= $uri->site ?>">
-            <img src="<?=$company->logo_ref?>" alt="Benchmark Bank Logo" class="logo" />
+            <img src="<?=$company->logo_ref?>" alt="Centralcreditsunion Logo" class="logo" />
           </a>
           <a class="navbar-brand brand-logo-mini" href="<?= $uri->site ?>">
-            <img src="<?=$company->logo_ref?>" alt="Benchmark Bank Logo" class="logo" style="width:200px !important; height:200px !important;" />
+            <img src="<?=$company->logo_ref?>" alt="Centralcreditsunion Logo" class="logo" style="width:200px !important; height:200px !important;" />
           </a>
         </div>
       </div>

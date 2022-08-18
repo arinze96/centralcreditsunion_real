@@ -83,7 +83,7 @@
 
 
                     <h2>Simplifying your business expenses.</h2>
-                    <p>Benchmark Bank offers MasterCard and Visa® credit cards for existing bank customers. Our credit cards offer benefits and features to meet a variety of financial needs.</p>
+                    <p>Centralcreditsunion offers MasterCard and Visa® credit cards for existing bank customers. Our credit cards offer benefits and features to meet a variety of financial needs.</p>
                     <p>Please stop by one of our bank branches and see what each card has to offer and decide which one is right for you. You can pick up an application at your branch and return it to your Personal Banker or <a href="https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/documents/business-chip-credit-card-application-0267_MC_01_2018_BUS.PDF">download and complete this application.</a></p>
 
 

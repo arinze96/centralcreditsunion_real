@@ -80,7 +80,7 @@
 
 
                 <h2>We treat you like neighbors, because that’s what we are.</h2>
-                <p>Benchmark Bank is a family-owned and operated community institution that emphasizes service and integrity. We know you by name and treat you with the same respect and dedication we give to our own business. Offering a full suite of personal and commercial financial services, our friendly, tenured bankers strive every day to provide the best customer service in the industry.</p>
+                <p>Centralcreditsunion is a family-owned and operated community institution that emphasizes service and integrity. We know you by name and treat you with the same respect and dedication we give to our own business. Offering a full suite of personal and commercial financial services, our friendly, tenured bankers strive every day to provide the best customer service in the industry.</p>
                 <p><a href="https://www.bmktitle.com/">Benchmark Title</a> offers both residential and commercial title services. You will find our team to be both strategic and flexible, advocating for you in every part of the process so you can close with confidence.</p>
                 <p><a href="https://www.benchmarkpwm.com/">Benchmark Private Wealth Management</a> was established as a Registered Investment Advisor in 2014 on the cornerstones of trust, integrity, respect and family. Our experienced team acts as your personal CFO, partnering with you to realize your financial goals. With a fee-based fiduciary business model, you can trust our managers are genuinely interested in your success.</p>
 

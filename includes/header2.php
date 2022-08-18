@@ -4,7 +4,7 @@
 <meta name="twitter:card" value="summary">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Banking, Credit Cards, Loans and more - Benchmark Bank" />
+<meta property="og:title" content="Banking, Credit Cards, Loans and more - Centralcreditsunion" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.benchmarkbank.com/" />
 

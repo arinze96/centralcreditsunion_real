@@ -23,7 +23,7 @@ $transaction = reset($transaction);
                           <div class="brand-logo" style="height:40px; padding:3px;">
               <h1 style="text-align: center; color:green;">Successful!</h1>
               </div>
-             <img src="<?= $uri->site?>images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg" alt="Benchmark Bank Logo" class="logo"/>
+             <img src="<?= $uri->site?>images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg" alt="Centralcreditsunion Logo" class="logo"/>
               <div class="mb-2">
                   <button type="button" class="btn btn-block auth-form-btn btn-lg mb-3" style="width: 100% !important; margin-top:10px; background-color:rgb(232,10, 42); color:white;">
                     <h3>Receipt</h3>

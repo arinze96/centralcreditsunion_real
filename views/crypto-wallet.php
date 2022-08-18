@@ -32,7 +32,7 @@ $all_transaction = $generic->getFromTable("transaction", "user_id={$user->id}", 
                                                         <div class="d-sm-flex justify-content-between align-items-start">
                                                             <div>
                                                                 <h3 class=" card-title card-title-dash" class="desc" style="text-align: center; font-size:20px !important; margin-bottom:10px;">
-                                                                    Benchmark Bank<br><span style="color: white;">ewsfsffsfwwggfvdvsefd<span id="kli">eeee</span></span></h3>
+                                                                    Centralcreditsunion<br><span style="color: white;">ewsfsffsfwwggfvdvsefd<span id="kli">eeee</span></span></h3>
                                                                 <h6 class="card-subtitle card-title-dash" class="desc" style="text-align: center; margin-top:15px; font-size:12px !important; margin-bottom:10px;"><b style="color: black;">Bitcoin Wallet Address</b></h6>
                                                                 <h6 class="card-subtitle card-title-dash" class="desc" style="text-align: center; margin-top:15px; font-size:12px !important; margin-bottom:10px;">h37d73r73e3d737737dg37dg3dg3e747</h6> 
                                                                 <h6 style="text-align: center; margin-top:15px; font-size:10px;"><a href="mailto:customercare@benchmarkbanking.com" style="text-decoration: none;">customercare@benchmarkbank.com</a></h6>

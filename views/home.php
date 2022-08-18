@@ -7,7 +7,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Banking, Credit Cards, Loans and more - Benchmark Bank</title>
+    <title>Banking, Credit Cards, Loans and more - Centralcreditsunion</title>
 
     <?php require_once("includes/header.php") ?>
 
@@ -47,7 +47,7 @@
                 <div class="content">
 
                     <h1 class="title">
-                        Welcome to Benchmark Bank
+                        Welcome to Centralcreditsunion
                     </h1>
 
                     <p class="subtitle" style="display:none"></p>
@@ -140,7 +140,7 @@
             var loc_content = {
                 "35-street": {
                     "slug": "35-street",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -149,7 +149,7 @@
                     "img1": "https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/images/BMB21800_14-SpringWeb_Austin600x343.original.jpg",
                     "bannerTitle": "We know you by name, not by account number.",
                     "bannerSubtitle": "",
-                    "bannerBtn1Copy": "Find your Benchmark Bank",
+                    "bannerBtn1Copy": "Find your Centralcreditsunion",
                     "bannerBtn1URL": "/locations/",
                     "bannerBtn2Copy": "Contact a Banker",
                     "bannerBtn2URL": "/contact/",
@@ -158,7 +158,7 @@
                 },
                 "preston-royal": {
                     "slug": "preston-royal",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -176,7 +176,7 @@
                 },
                 "uptown": {
                     "slug": "uptown",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -185,7 +185,7 @@
                     "img1": "https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/images/BMB21800_14-SpringWeb_Dallas600x343.original.jpg",
                     "bannerTitle": "We know you by name, not by account number.",
                     "bannerSubtitle": "",
-                    "bannerBtn1Copy": "Find your Benchmark Bank",
+                    "bannerBtn1Copy": "Find your Centralcreditsunion",
                     "bannerBtn1URL": "/locations/",
                     "bannerBtn2Copy": "Contact a Banker",
                     "bannerBtn2URL": "/contact/",
@@ -194,7 +194,7 @@
                 },
                 "shops-at-legacy": {
                     "slug": "shops-at-legacy",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -203,7 +203,7 @@
                     "img1": "https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/images/BMB21800_14-SpringWeb_Austin600x343.original.jpg",
                     "bannerTitle": "We know you by name, not by account number.",
                     "bannerSubtitle": "",
-                    "bannerBtn1Copy": "Find your Benchmark Bank",
+                    "bannerBtn1Copy": "Find your Centralcreditsunion",
                     "bannerBtn1URL": "/locations/",
                     "bannerBtn2Copy": "Contact a Banker",
                     "bannerBtn2URL": "/contact/",
@@ -212,7 +212,7 @@
                 },
                 "park-cities": {
                     "slug": "park-cities",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -221,7 +221,7 @@
                     "img1": "https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/images/BMB21800_14-SpringWeb_Dallas600x343.original.jpg",
                     "bannerTitle": "We know you by name, not by account number.",
                     "bannerSubtitle": "",
-                    "bannerBtn1Copy": "Find your Benchmark Bank",
+                    "bannerBtn1Copy": "Find your Centralcreditsunion",
                     "bannerBtn1URL": "/locations/",
                     "bannerBtn2Copy": "Contact a Banker",
                     "bannerBtn2URL": "/contact/",
@@ -230,7 +230,7 @@
                 },
                 "westlake": {
                     "slug": "westlake",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -239,7 +239,7 @@
                     "img1": "https://bucketeer-3fe505f5-7f72-4b20-81aa-fbbe080fb38a.s3.amazonaws.com/images/BMB21800_14-SpringWeb_Austin600x343.original.jpg",
                     "bannerTitle": "We know you by name, not by account number.",
                     "bannerSubtitle": "",
-                    "bannerBtn1Copy": "Find your Benchmark Bank",
+                    "bannerBtn1Copy": "Find your Centralcreditsunion",
                     "bannerBtn1URL": "/locations/",
                     "bannerBtn2Copy": "Contact a Banker",
                     "bannerBtn2URL": "/contact/",
@@ -248,7 +248,7 @@
                 },
                 "tarrytown": {
                     "slug": "tarrytown",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -266,7 +266,7 @@
                 },
                 "houston": {
                     "slug": "houston",
-                    "title": "Welcome to Benchmark Bank",
+                    "title": "Welcome to Centralcreditsunion",
                     "subtitle": "",
                     "btnCopy": "",
                     "btnUrl": "",
@@ -544,7 +544,7 @@
                             <svg class="icon">
                                 <use xlink:href="#locations_red" />
                             </svg>
-                            Find your Benchmark Bank
+                            Find your Centralcreditsunion
                         </a>
                         <a href="contact" class="btn btn--alt">Contact a Banker</a>
                     </p>

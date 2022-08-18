@@ -79,8 +79,8 @@
 
 
 
-                    <p>Whether in person, over the phone, or through email, you can always get your questions answered by a real person at Benchmark Bank.</p>
-                    <h2>Email Benchmark Bank&#x27;s Frontline Staff</h2>
+                    <p>Whether in person, over the phone, or through email, you can always get your questions answered by a real person at Centralcreditsunion.</p>
+                    <h2>Email Centralcreditsunion&#x27;s Frontline Staff</h2>
                     <p>We generally respond within 24 hours or the next business day. If your needs are more immediate, call 972.673.4000.</p>
                     <p><i>All fields are required.</i></p>
 
@@ -126,7 +126,7 @@
                                 </label>
                                 <p class="footnote">
 
-                                    By providing contact information, I am allowing Benchmark Bank to contact me.
+                                    By providing contact information, I am allowing Centralcreditsunion to contact me.
 
                                 </p>
                             </div>

@@ -2,7 +2,7 @@
     <div class="container">
 
         <div class="top">
-            <img src="<?=$company->favicon2?>" alt="Benchmark Bank Logo" class="logo"/>
+            <img src="<?=$company->favicon2?>" alt="Centralcreditsunion Logo" class="logo"/>
 
             <div class="details">
                 <p class="loc">
@@ -42,7 +42,7 @@
             <nav>
                 <ul>
                     <li>
-                        Benchmark Bank
+                        Centralcreditsunion
                         <ul>
                             <li><a href="history">History</a></li>
                             <li><a href="business_philosophy">Business Philosophy</a></li>
@@ -100,11 +100,11 @@
                 </ul>
 
                 <p>
-                    Benchmark Title, LLC and Benchmark Private Wealth Management, LLC are wholly-owned subsidiaries of Benchmark Bank. Benchmark Title and Benchmark Private Wealth Management products are not FDIC-insured, may lose value, and are not bank guaranteed. Benchmark Private Wealth Management, LLC is a Registered Investment Advisor.
+                    Benchmark Title, LLC and Benchmark Private Wealth Management, LLC are wholly-owned subsidiaries of Centralcreditsunion. Benchmark Title and Benchmark Private Wealth Management products are not FDIC-insured, may lose value, and are not bank guaranteed. Benchmark Private Wealth Management, LLC is a Registered Investment Advisor.
                 </p>
 
                 <p class="copyright">
-                    &copy; Copyright 2021 Benchmark Bank, LLC
+                    &copy; Copyright 2021 Centralcreditsunion, LLC
                                                 &nbsp;&nbsp;&nbsp;
                     <a href="sitemap/index.html">Site Map</a>
                     &nbsp;&nbsp;&nbsp;
@@ -126,10 +126,10 @@
 <div class="modal_bg"></div>
 <div class="modal">
     <p class="eyelash">Third Party Site Disclosure</p>
-    <h2 class="title">You are leaving Benchmark Bank’s Website.</h2>
+    <h2 class="title">You are leaving Centralcreditsunion’s Website.</h2>
     <div class="rich-text">
-        <p>Links that may be accessed via this site are for the convenience of informational purposes only. Any products and services accessed through this link are not provided or guaranteed by Benchmark Bank. The site you are about to visit may have a privacy policy that is different than Benchmark Bank’s.</p>
-        <p>Please review their privacy policy. Benchmark Bank does not endorse the content contained in these sites, nor the organizations publishing those sites, and hereby disclaims any responsibility for such content.</p>
+        <p>Links that may be accessed via this site are for the convenience of informational purposes only. Any products and services accessed through this link are not provided or guaranteed by Centralcreditsunion. The site you are about to visit may have a privacy policy that is different than Centralcreditsunion’s.</p>
+        <p>Please review their privacy policy. Centralcreditsunion does not endorse the content contained in these sites, nor the organizations publishing those sites, and hereby disclaims any responsibility for such content.</p>
     </div>
     <p class="ext_link">
         <a href="#" class="btn btn--alt" target="_blank">Continue<span class="link_title"></span>

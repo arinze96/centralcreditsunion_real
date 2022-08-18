@@ -126,7 +126,7 @@
                             <p></p>
                             <p>Dear Friends and Valued Customers,</p>
                             <p>We hope you all are managing this crisis as well as one could hope. Recently deemed</p>
-                            <p>an essential service by the government, Benchmark Bank is …</p>
+                            <p>an essential service by the government, Centralcreditsunion is …</p>
                             <p>
                                 <a href="#" class="read">Keep Reading</a>
                             </p>
@@ -144,7 +144,7 @@
 
                             <p></p>
                             <p><b>Safeguard your Accounts from Cyber Crime</b></p>
-                            <p>Computer-related crimes affecting businesses and individuals are frequently in the news. While Benchmark Bank is vigilant regarding information security by constantly updating our policies …</p>
+                            <p>Computer-related crimes affecting businesses and individuals are frequently in the news. While Centralcreditsunion is vigilant regarding information security by constantly updating our policies …</p>
                             <p>
                                 <a href="#" class="read">Keep Reading</a>
                             </p>
@@ -156,11 +156,11 @@
                             </p>
                             <h2 class="title">
                                 <a href="#">
-                                    Benchmark Bank - 5-Star Rated for 5 Consecutive Quarters
+                                    Centralcreditsunion - 5-Star Rated for 5 Consecutive Quarters
                                 </a>
                             </h2>
 
-                            <p><b>September 2018: Coral Gables, Florida, BauerFinancial, Inc., the Nations&#x27; Premier Bank Rating Firm,</b> proudly affirms that <b>Benchmark Bank, Dallas, Texas</b> has once again earned its highest (5-Star) rating for financial …</p>
+                            <p><b>September 2018: Coral Gables, Florida, BauerFinancial, Inc., the Nations&#x27; Premier Bank Rating Firm,</b> proudly affirms that <b>Centralcreditsunion, Dallas, Texas</b> has once again earned its highest (5-Star) rating for financial …</p>
                             <p>
                                 <a href="#" class="read">Keep Reading</a>
                             </p>
@@ -176,7 +176,7 @@
                                 </a>
                             </h2>
 
-                            <p>It’s official! Benchmark Bank is ranked in American Banker as the 4th Best Bank with assets under $3 Billion to Work for in the Nation. Thank you to all of …</p>
+                            <p>It’s official! Centralcreditsunion is ranked in American Banker as the 4th Best Bank with assets under $3 Billion to Work for in the Nation. Thank you to all of …</p>
                             <p>
                                 <a href="#" class="read">Keep Reading</a>
                             </p>
@@ -209,7 +209,7 @@
                                 </a>
                             </h2>
 
-                            <p>Benchmark Bank is thrilled to once again sponsor two students in the Corporate Work Study Program.<br />Students work at the bank to earn the majority of their tuition and build …</p>
+                            <p>Centralcreditsunion is thrilled to once again sponsor two students in the Corporate Work Study Program.<br />Students work at the bank to earn the majority of their tuition and build …</p>
                             <p>
                                 <a href="#" class="read">Keep Reading</a>
                             </p>
@@ -225,7 +225,7 @@
                                 </a>
                             </h2>
 
-                            <p>To get started, go to the app store to view available updates and update your Benchmark Bank business mobility app to version 5.0.3. Then follow these steps:</p>
+                            <p>To get started, go to the app store to view available updates and update your Centralcreditsunion business mobility app to version 5.0.3. Then follow these steps:</p>
                             <ul>
                                 <li>Open the Benchmark …</li>
                             </ul>

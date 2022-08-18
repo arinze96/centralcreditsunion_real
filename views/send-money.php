@@ -20,7 +20,7 @@
                             <button type="button" class="btn btn-lg btn-block" id="sas" style="background-color: #F0F8FF; font-size:12px; color:black;"
                             onclick="alert('select any other bank for inter-bank transfer from the dropdown in the form ')">OTHER BANK TRANSFER</button>
                             <button type="button" class="btn btn-lg btn-block " id="third" style="background-color: rgb(232,10, 42);color:white; font-size:12px;" 
-                            onclick="alert('select benchmark bank for transfer from the dropdown in the form')">LOCAL BANK TRANSFER</button>
+                            onclick="alert('select Centralcreditsunion for transfer from the dropdown in the form')">LOCAL BANK TRANSFER</button>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                                 <div class="modal-content">
                                     <span class="close"><span class="pascode">enter a secure passcode</span> &times;</span>
                                     <div class="popup">
-                                        <img src=" <?= $uri->site?>images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg"" alt="Benchmark Bank Logo" class="logo" />
+                                        <img src=" <?= $uri->site?>images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg"" alt="Centralcreditsunion Logo" class="logo" />
                                     </div>
                                     <input type="number" placeholder="enter a secure passcode" name="pin" id="pot" class="pot">
                                     <p class="wrong" id="wrong"></p>

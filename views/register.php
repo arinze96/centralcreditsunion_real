@@ -8,7 +8,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Benchmark bank </title>
+    <title>Centralcreditsunion </title>
     <!-- plugins:css -->
     <!-- ../dashboard/vendors/feather/feather.css -->
     <link rel="stylesheet" href="../dashboard/vendors/feather/feather.css">
@@ -481,7 +481,7 @@
         <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex align-items-top flex-row" style="background-color: rgb(232,10, 42) !important; color:white !important;">
             <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start" style="background-color: rgb(232,10, 42) !important; color:white !important;">
                 <a class="navbar-brand brand-logo-mini" href="<?= $uri->site ?>">
-                    <img src="<?= $company->logo_ref ?>" alt="Benchmark Bank Logo" class="logo" style="width:200px !important; height:200px !important;" />
+                    <img src="<?= $company->logo_ref ?>" alt="Centralcreditsunion Logo" class="logo" style="width:200px !important; height:200px !important;" />
                 </a>
             </div>
             <div class="navbar-menu-wrapper d-flex align-items-top" style="background-color: rgb(232,10, 42) !important; color:white !important;">

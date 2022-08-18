@@ -82,13 +82,13 @@
 
 
                     <h2>​Benchmark offers a variety of loan products to meet your needs.</h2>
-                    <p>Because we are locally owned and we understand the businesses in our market area, we are able to meet your lending needs efficiently. Quick decisions, personal relationships and convenience are the standard at Benchmark Bank.</p>
+                    <p>Because we are locally owned and we understand the businesses in our market area, we are able to meet your lending needs efficiently. Quick decisions, personal relationships and convenience are the standard at Centralcreditsunion.</p>
                     <h3>Together we can help your business go further.</h3>
                     <p>Our commercial loan products include:</p>
                     <h3>Lines of Credit</h3>
                     <p>Keep your business running seamlessly with a Line of Credit. <a href="mailto:bmblo@benchmarkbank.com">Contact your Loan Officer</a> to discuss whether this option is right for your business.</p>
                     <h3>Real Estate Loans</h3>
-                    <p>Benchmark Bank offers a variety of commercial real estate loans, including - Owner and Non-Owner Occupied, Refinance, Short and Long Term Financing Options, Land and Development Lending.</p>
+                    <p>Centralcreditsunion offers a variety of commercial real estate loans, including - Owner and Non-Owner Occupied, Refinance, Short and Long Term Financing Options, Land and Development Lending.</p>
                     <p>You can further streamline your real estate transaction with <a href="https://www.bmktitle.com/">Benchmark Title.</a></p>
                     <h3>Construction Loans</h3>
                     <p>Whether you have Office, Retail, Industrial or Multi-Use Properties, we would love to discuss a construction loan solution that will meet your needs.</p>

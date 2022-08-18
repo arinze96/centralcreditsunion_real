@@ -91,7 +91,7 @@
                     <div class="rich-text">
 
                         <h2>We promise to earn your trust every day. Ask for us by name at your local branch.</h2>
-                        <p>Benchmark Bank, Private Wealth and Title are led by individuals who are accomplished in their area of expertise in the financial services industry. They are instrumental in creating and sustaining the open, nurturing culture that is the foundation of the Benchmark family of companies. The Benchmark Leadership team stands committed to the employees they lead, the customers they serve and the communities in which they work and live.</p>
+                        <p>Centralcreditsunion, Private Wealth and Title are led by individuals who are accomplished in their area of expertise in the financial services industry. They are instrumental in creating and sustaining the open, nurturing culture that is the foundation of the Benchmark family of companies. The Benchmark Leadership team stands committed to the employees they lead, the customers they serve and the communities in which they work and live.</p>
 
                     </div>
                     <!--! end of .rich-text -->
@@ -172,7 +172,7 @@
                                 </figcaption>
                             </figure>
                             <p class="title">
-                                President, Benchmark Bank
+                                President, Centralcreditsunion
                             </p>
                             <p class="view">
                                 &nbsp;

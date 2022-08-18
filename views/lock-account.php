@@ -11,7 +11,7 @@
           <div class="row w-100 mx-0">
             <div class="col-lg-4 mx-auto" style="background-color: white;">
               <div style="width: 100%; height:70px;padding-top:10px;">
-                <img src="<?=$company->favicon2 ?>" alt="Benchmark Bank Logo" class="logo" />
+                <img src="<?=$company->favicon2 ?>" alt="Centralcreditsunion Logo" class="logo" />
               </div>
               <div class="col-lg-4 d-flex">
                 <div class="statistics-details d-flex align-items-center justify-content-between">

@@ -84,7 +84,7 @@
 
 
                     <h2>​A safe alternative to cash.</h2>
-                    <p>Chip debit cards are available for business checking accounts. With a Benchmark Bank Debit Card, you can pay for routine or recurring transactions easily and the funds will automatically be withdrawn from your bank account. Debit cards have the added benefit that they can be used at ATM machines, along with your PIN number, to withdraw cash.</p>
+                    <p>Chip debit cards are available for business checking accounts. With a Centralcreditsunion Debit Card, you can pay for routine or recurring transactions easily and the funds will automatically be withdrawn from your bank account. Debit cards have the added benefit that they can be used at ATM machines, along with your PIN number, to withdraw cash.</p>
                     <p><a href="contact">For lost or stolen debit cards,</a> please call: 972.673.4000 (during normal business hours) or 800.523.4175 (24 hours/day).</p>
                     <p><a href="contact">To reset your PIN,</a> please call: 972.673.4000 during normal business hours.</p>
                     <p>Debit cards are subject to credit approval. We offer one complimentary debit card per signer per applicable account.</p>
@@ -94,7 +94,7 @@
 
                     <p></p>
                     <h2>Quick and easy payments with your smartphone.</h2>
-                    <p>Streamline the way you purchase online, in-store or in-app by using your preferred wallet. Benchmark Bank Visa® Debit Card provides a convenient way to pay with your supported mobile device.</p>
+                    <p>Streamline the way you purchase online, in-store or in-app by using your preferred wallet. Centralcreditsunion Visa® Debit Card provides a convenient way to pay with your supported mobile device.</p>
                     <p>You can pay anywhere Apple Pay, Google Pay, and Samsung Pay mobile wallet payments are accepted.</p>
                     <p>Speed through check out with:</p>
                     <p></p><img alt="Apple_Pay_LogoResized.png" class="richtext-image left" height="72" src="images/Apple_Pay_LogoResized.width-500.png" width="150">
@@ -110,7 +110,7 @@
                     </ul>
                     <h3>Why You&#x27;ll Love It</h3>
                     <ul>
-                        <li>Access funds in any existing Benchmark Bank checking or savings account at any Benchmark ATM location</li>
+                        <li>Access funds in any existing Centralcreditsunion checking or savings account at any Benchmark ATM location</li>
                         <li>Make purchases anywhere Visa® is accepted</li>
                         <li>Chip technology for added security</li>
                         <li>Mobile pay compatible</li>
@@ -171,7 +171,7 @@
 
                             <li>
 
-                                Access funds in any existing Benchmark Bank checking or savings account at any ATM location
+                                Access funds in any existing Centralcreditsunion checking or savings account at any ATM location
 
                             </li>
 

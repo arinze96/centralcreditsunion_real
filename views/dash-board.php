@@ -41,7 +41,7 @@ if (isset($grouped['debit'])) $debit = array_sum(array_column($grouped["debit"],
                     <div class="row flex-grow">
                       <div class="col-12 grid-margin stretch-card " id="kazi">
                         <div class="card card-rounded">
-                          <!-- <img src="images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg" alt="Benchmark Bank Logo" class="logo"/> -->
+                          <!-- <img src="images/img/Benchmark-Bank-Logo-Color.431cb650a123.svg" alt="Centralcreditsunion Logo" class="logo"/> -->
                           <div class="card-body">
                             <div class="d-sm-flex justify-content-between align-items-start">
                               <div>
