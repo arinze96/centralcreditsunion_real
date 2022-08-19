@@ -23,8 +23,8 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="../dashboard/css/vertical-layout-light/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="<?= $url->site ?>images/img/apple-touch-icon.0e30ffa98fec.png" />
-<link rel="apple-touch-icon" href="<?= $url->site ?>images/img/apple-touch-icon.0e30ffa98fec.png">
+  <link rel="shortcut icon" href="<?= $url->site ?>images/logo-v.png" />
+<link rel="apple-touch-icon" href="<?= $url->site ?>images/logo-v.png">
   <meta charset="utf-8">
   <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
   <!-- <title>Star Admin2 </title> -->
