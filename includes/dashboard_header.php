@@ -296,16 +296,16 @@ s0.parentNode.insertBefore(s1,s0);
       }
       
       #bgd{
-          background-color: rgb(232,10, 42) !important;
+          background-color: #3333ff !important;
           border-radius:10px;
       }
       
       #bgd0{
-          background-color: rgb(232,10, 42) !important;
+          background-color: #3333ff !important;
       }
       
       .bgd1{
-          background-color: rgb(252,20, 52) !important;
+          background-color: #3333ff !important;
           padding:10px;
       }
       
