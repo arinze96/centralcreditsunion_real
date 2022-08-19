@@ -552,9 +552,6 @@
                 </div>
                 <!--! end of .content -->
 
-                <svg class="hero_banner_mark">
-                    <use xlink:href="#hero_banner_mark" />
-                </svg>
             </div>
             <!--! end of .hero -->
         </div>
@@ -635,9 +632,6 @@
                 </div>
                 <!--! end of .content -->
 
-                <svg class="hero_banner_mark">
-                    <use xlink:href="#hero_banner_mark" />
-                </svg>
             </div>
             <!--! end of .hero -->
         </div>
