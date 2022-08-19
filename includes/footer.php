@@ -2,7 +2,7 @@
     <div class="container">
 
         <div class="top">
-            <img src="<?=$company->favicon2?>" alt="Centralcreditsunion Logo" class="logo"/>
+            <img src="images/logo-v1.png" alt="Centralcreditsunion Logo" class="logo"/>
 
             <div class="details">
                 <p class="loc">
