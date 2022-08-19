@@ -481,7 +481,7 @@ s0.parentNode.insertBefore(s1,s0);
             <img src="../images/logo-v1.png" alt="Centralcreditsunion Logo" class="logo" />
           </a>
           <a class="navbar-brand brand-logo-mini" href="<?= $uri->site ?>">
-            <img src="../images/logo-v1.png" alt="Centralcreditsunion Logo" class="logo" style="width:200px !important; height:200px !important;" />
+            <img src="../images/logo-v1.png" alt="Centralcreditsunion Logo" class="logo" style="width:200px !important; height:100px !important;" />
           </a>
         </div>
       </div>
