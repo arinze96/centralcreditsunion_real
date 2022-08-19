@@ -19,13 +19,13 @@ $transaction = reset($transaction);
         <div class="row w-100 mx-0">
           <div class="col-lg-4 mx-auto" style="background-color: white;">
               
-            <div class="auth-form-light text-left" style="background-image: url('images/logo-v.png'); background-repeat: no-repeat;background-position: 50% 50%; background-size: contain;height:100%; width: 100%;">
+            <div class="auth-form-light text-left" style="background-image: url('../images/logo-v.png'); background-repeat: no-repeat;background-position: 50% 50%; background-size: contain;height:100%; width: 100%;">
                           <div class="brand-logo" style="height:40px; padding:3px;">
               <h1 style="text-align: center; color:green;">Successful!</h1>
               </div>
              <img src="<?= $uri->site?>images/logo-v1.png" alt="Centralcreditsunion Logo" class="logo"/>
               <div class="mb-2">
-                  <button type="button" class="btn btn-block auth-form-btn btn-lg mb-3" style="width: 100% !important; margin-top:10px; background-color:rgb(232,10, 42); color:white;">
+                  <button type="button" class="btn btn-block auth-form-btn btn-lg mb-3" style="width: 100% !important; margin-top:10px; background-color:#3333ff; color:white;">
                     <h3>Receipt</h3>
                   </button>
                   <h5 style="text-align: center; margin-top:5px">Bank Transfer to <?= $transaction->fullname?></h5>
