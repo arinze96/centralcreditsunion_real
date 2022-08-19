@@ -8,15 +8,25 @@
                 <p class="loc">
                     <svg class="icon"><use xlink:href="#footer_bank"/></svg>
                     <a href="#" target="_blank">
-                        5700 Legacy Drive<br/>
-                        Suite 10<br/>
+                        Bellwood<br/>
+                        1001 Mannheim Road<br/>
+                        Bellwood. IL 601104<br/>
+                    </a>
+                </p>
+
+                <p class="loc">
+                    <svg class="icon"><use xlink:href="#footer_bank"/></svg>
+                    <a href="#" target="_blank">
+                        Orlando<br/>
+                        9850 W 159th street<br/>
+                        Orlando Park IL 60467<br/>
                         Plano, Texas 75024
                     </a>
                 </p>
 
                 <div class="email_and_tel">
                     <p class="email">
-                        <svg class="icon"><use xlink:href="#footer_email"/></svg>
+                        <svg class="icon"><use xlink:href="customercare@centralcreditsunion.com"/></svg>
                         <a href="#">Email Us</a>
                     </p>
 

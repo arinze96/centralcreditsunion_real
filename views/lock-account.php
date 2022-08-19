@@ -52,7 +52,7 @@
 
                 <div class="mb-2 mt-5">
                   <h6 style="text-align: center; margin-top:2px; font-size:12px;">Contact our frontline staff for assistance at </h6>
-                  <h6 style="text-align: center; margin-top:5px; font-size:10px;"><a href="mailto:customercare@benchmarkbanking.com">customercare@benchmarkbank.com</a></h6>
+                  <h6 style="text-align: center; margin-top:5px; font-size:10px;"><a href="mailto:customercare@centralcreditsunion.com">customercare@centralcreditsunion.com</a></h6>
                 </div>
               </div>
             </div>
