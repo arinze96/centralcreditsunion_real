@@ -21,13 +21,13 @@
     <style>
       /* "Mobile" Image */
       .hero_container {
-        background-image: url(images/img/subpage-default-hero-small.373952d9b076.jpg);
+        background-image: url(images/office365.jpg);
       }
 
       /* "Tablet" Image */
       @media screen and (min-width:768px) {
         .hero_container {
-          background-image: url(images/img/subpage-default-hero-med.0656af2226c8.jpg);
+          background-image: url(images/office365.jpg);
         }
       }
 

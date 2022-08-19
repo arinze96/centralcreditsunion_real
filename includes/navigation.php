@@ -91,7 +91,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
     <div class="nav">
 
         <div class="logo">
-            <a href="<?=$uri->site?>"><img src="<?=$company->logo_ref?>" alt="Centralcreditsunion" title="Centralcreditsunion Homepage"></a>
+            <a href="<?=$uri->site?>"><img src="images/logo-v1.png" alt="Centralcreditsunion" title="Centralcreditsunion Homepage"></a>
 
             <div class="menu">
                 <svg class="icon">
