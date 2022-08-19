@@ -469,8 +469,8 @@ s0.parentNode.insertBefore(s1,s0);
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
-    <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex align-items-top flex-row" style="background-color: rgb(232,10, 42) !important; color:white !important;">
-      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start" style="background-color: rgb(232,10, 42) !important; color:white !important;">
+    <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex align-items-top flex-row" style="background-color: #3333ff !important; color:white !important;">
+      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start" style="background-color: #3333ff !important; color:white !important;">
         <div class="me-3">
           <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-bs-toggle="minimize">
             <span class="icon-menu"></span>
@@ -485,7 +485,7 @@ s0.parentNode.insertBefore(s1,s0);
           </a>
         </div>
       </div>
-      <div class="navbar-menu-wrapper d-flex align-items-top" style="background-color: rgb(232,10, 42) !important; color:white !important;">
+      <div class="navbar-menu-wrapper d-flex align-items-top" style="background-color: #3333ff !important; color:white !important;">
         <ul class="navbar-nav">
           <li class="nav-item font-weight-semibold d-none d-lg-block ms-0">
             <h3 class="welcome-text"><span id="greetings" style="font-size: 16px; color:white;"></span> <span style="font-size: 16px; color:white;"><?= $user->first_name ?>&nbsp; <?= $user->last_name ?></span></h3>
