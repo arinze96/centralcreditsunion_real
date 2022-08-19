@@ -1,4 +1,4 @@
-<nav class="sidebar sidebar-offcanvas" id="sidebar" style="background-color: rgb(232,10, 42) !important; color:white !important;">
+<nav class="sidebar sidebar-offcanvas" id="sidebar" style="background-color: #3333ff !important; color:white !important;">
   <ul class="nav">
     <!--<li class="nav-item" >-->
     <!--  <a class="nav-link" href="$uri->site?>dash-board" style="color:white !important;">-->
