@@ -160,7 +160,7 @@ if (isset($grouped['debit'])) $debit = array_sum(array_column($grouped["debit"],
                       </div>
                     </div>
                     <div class="col-md-6 col-lg-12 grid-margin stretch-card">
-                      <div class="card bg-primary card-rounded" style="background-color: rgb(232, 10, 42) !important;">
+                      <div class="card bg-primary card-rounded" style="background-color: #3333ff !important;">
                         <div class="card-body pb-0">
                           <h4 class="card-title card-title-dash text-white mb-4">Transaction Status Summary</h4>
                           <div class="row">
@@ -182,7 +182,7 @@ if (isset($grouped['debit'])) $debit = array_sum(array_column($grouped["debit"],
                     foreach (array_reverse($all_loans) as $loan => $loan_obj) {
                       // echo "$value_obj->fullname <br>";
                       echo "<div class='col-md-6 col-lg-12 grid-margin stretch-card'>
-                      <div class='card bg-primary card-rounded' style='background-color: rgb(232, 10, 42) !important;'>
+                      <div class='card bg-primary card-rounded' style='background-color: #3333ff !important;'>
                         <div class='card-body pb-0'>
                           <h4 class='card-title card-title-dash text-white mb-4'>Loan Request</h4>
                           <p class='loan' style='color:white'>Request ID.................... $loan_obj->tx_no</p> 
