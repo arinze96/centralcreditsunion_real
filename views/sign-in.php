@@ -34,7 +34,7 @@
       /* "Desktop" Image */
       @media screen and (min-width:1024px) {
         .hero_container {
-          background-image: url(images/img/subpage-default-hero.38bcdc8303bb.jpg);
+          background-image: url(images/office365.jpg);
         }
       }
     </style>
