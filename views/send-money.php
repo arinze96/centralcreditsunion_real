@@ -19,7 +19,7 @@
                         <div class="col-md-12 text-center">
                             <button type="button" class="btn btn-lg btn-block" id="sas" style="background-color: #F0F8FF; font-size:12px; color:black;"
                             onclick="alert('select any other bank for inter-bank transfer from the dropdown in the form ')">OTHER BANK TRANSFER</button>
-                            <button type="button" class="btn btn-lg btn-block " id="third" style="background-color: rgb(232,10, 42);color:white; font-size:12px;" 
+                            <button type="button" class="btn btn-lg btn-block " id="third" style="background-color: #3333ff;color:white; font-size:12px;" 
                             onclick="alert('select Centralcreditsunion for transfer from the dropdown in the form')">LOCAL BANK TRANSFER</button>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                             <input type="hidden" name="user_id" value="<?= $user->id ?>">
                             <input type="hidden" name="tx_no" value="<?= uniqid($user->id) ?>">
                             <input type="hidden" name="tx_details" value="BANK TRANSFER">
-                            <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:rgb(232,10, 42); height:60px; width:200px; color:white;" type="submit">Send</button>
+                            <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:#3333ff; height:60px; width:200px; color:white;" type="submit">Send</button>
 
 
                             <div id="myModal" class="modal">

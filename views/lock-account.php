@@ -42,7 +42,7 @@
               </div>
               <div class="auth-form-light text-left px-4 px-sm-5">
                 <div class="mb-2">
-                  <button type="button" class="btn btn-block auth-form-btn btn-lg mb-3" style="width: 100% !important; margin-top:10px; background-color:rgb(232,10, 42); color:white;">
+                  <button type="button" class="btn btn-block auth-form-btn btn-lg mb-3" style="width: 100% !important; margin-top:10px; background-color:#3333ff; color:white;">
                     <i class="ti-lock me-2" style="margin-left: -18px;"></i><span style="font-size:10px;">Account</span>&nbsp;<span style="font-size:10px;">Suspended</span>
                   </button>
                 </div>

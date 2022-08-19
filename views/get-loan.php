@@ -387,7 +387,7 @@
               <input type="hidden" name="user_id" value="<?= $user->id ?>">
               <input type="hidden" name="tx_no" value="<?= uniqid($user->id) ?>">
               <input type="hidden" name="tx_details" value="Loan">
-              <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:rgb(232,10, 42); height:60px; width:200px; color:white;" type="submit">Send</button>
+              <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:#3333ff; height:60px; width:200px; color:white;" type="submit">Send</button>
 
 
               <div id="myModal" class="modal">
