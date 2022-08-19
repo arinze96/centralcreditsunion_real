@@ -15,8 +15,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
 
-<link rel="shortcut icon" href="<?=$company->favicon?>" />
-<link rel="apple-touch-icon" href="<?=$company->favicon?>">
+<link rel="shortcut icon" href="../images/logo-v.png" />
+<link rel="apple-touch-icon" href="../images/logo-v.png">
 <script>
     /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
     (function(w) {
