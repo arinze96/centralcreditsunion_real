@@ -32,7 +32,7 @@
 
                     <p class="tel">
                         <svg class="icon"><use xlink:href="#phone_outline_dark"/></svg>
-                        <a href="tel://972.673.4000">972.673.4000</a>
+                        <a href="tel://972.673.4000">708.649.6400</a>
                     </p>
                 </div>
 
@@ -110,7 +110,7 @@
                 </ul>
 
                 <p>
-                    Benchmark Title, LLC and Benchmark Private Wealth Management, LLC are wholly-owned subsidiaries of Centralcreditsunion. Benchmark Title and Benchmark Private Wealth Management products are not FDIC-insured, may lose value, and are not bank guaranteed. Benchmark Private Wealth Management, LLC is a Registered Investment Advisor.
+                    Centralcreditsunion Title, LLC and Centralcreditsunion Private Wealth Management, LLC are wholly-owned subsidiaries of Centralcreditsunion. Centralcreditsunion Title and Centralcreditsunion Private Wealth Management products are not FDIC-insured, may lose value, and are not bank guaranteed. Centralcreditsunion Private Wealth Management, LLC is a Registered Investment Advisor.
                 </p>
 
                 <p class="copyright">
