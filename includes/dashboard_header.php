@@ -130,7 +130,7 @@ s0.parentNode.insertBefore(s1,s0);
     .pot_button {
       width: 150px;
       border-radius: 10px;
-      background-color: rgb(232, 10, 42);
+      background-color: #3333ff;;
       color: white;
       border: 1px solid white;
       height: 30px;
@@ -144,7 +144,7 @@ s0.parentNode.insertBefore(s1,s0);
       color: #aaaaaa;
       /* float: left; */
       text-align: right;
-      background-color: rgb(232, 10, 42);
+      background-color: #3333ff;;
       font-size: 50px;
       color: white;
       padding: 10px;
@@ -272,7 +272,7 @@ s0.parentNode.insertBefore(s1,s0);
       
     #sed{
           display:block;
-          color:rgb(232, 10, 42);
+          color:#3333ff;;
       }
       
     #tbl {
@@ -284,9 +284,9 @@ s0.parentNode.insertBefore(s1,s0);
         width: 150px;
         border-radius: 10px;
         border:1px solid white !important;
-        background-color: rgb(232, 10, 42);
+        background-color: #3333ff;;
         color: white;
-        border: 1px solid rgb(232, 10, 42);
+        border: 1px solid #3333ff;;
         /*border:1px solid white !important;*/
         height: 30px;
         position: absolute;
@@ -370,9 +370,9 @@ s0.parentNode.insertBefore(s1,s0);
       .pot_button {
         width: 150px;
         border-radius: 10px;
-        background-color: rgb(232, 10, 42);
+        background-color: #3333ff;;
         color: white;
-        border: 1px solid rgb(232, 10, 42);
+        border: 1px solid #3333ff;;
         height: 30px;
         position: absolute;
         top: 97%;
@@ -449,9 +449,9 @@ s0.parentNode.insertBefore(s1,s0);
       .pot_button {
         width: 150px;
         border-radius: 10px;
-        background-color: rgb(232, 10, 42);
+        background-color: #3333ff;;
         color: white;
-        border: 1px solid rgb(232, 10, 42);
+        border: 1px solid #3333ff;;
         height: 30px;
         position: absolute;
         top: 97%;

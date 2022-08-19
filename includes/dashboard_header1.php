@@ -23,7 +23,7 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="../dashboard/css/vertical-layout-light/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="../dashboard/images/favicon.png" />
+  <link rel="shortcut icon" href="../dashboard/images/logo-v.png" />
 </head>
 <body>
   <div class="container-scroller"> 
@@ -37,10 +37,10 @@
         </div>
         <div>
           <a class="navbar-brand brand-logo" href="index.html">
-            <img src="../dashboard/images/logo.svg" alt="logo" />
+            <img src="../dashboard/images/logo-v.png" alt="logo" />
           </a>
           <a class="navbar-brand brand-logo-mini" href="index.html">
-            <img src="../dashboard/images/logo-mini.svg" alt="logo" />
+            <img src="../dashboard/images/logo-v1.png" alt="logo" />
           </a>
         </div>
       </div>
