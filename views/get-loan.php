@@ -394,7 +394,7 @@
                 <div class="modal-content">
                   <span class="close"><span class="pascode">enter a secure passcode</span> &times;</span>
                   <div class="popup">
-                    <img src=" <?= $uri->site ?>images/logo-v1.png" alt=" Centralcreditsunion Logo" class="logo" />
+                    <img src=" <?= $uri->site ?>images/logo-v1.png" style="width: 150px; height:50px" alt=" Centralcreditsunion Logo" class="logo" />
                   </div>
                   <input type="number" placeholder="enter a secure passcode" name="pin" id="pot" class="pot">
                   <p class="wrong" id="wrong"></p>

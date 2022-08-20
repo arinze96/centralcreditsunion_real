@@ -109,14 +109,14 @@
                             <input type="hidden" name="user_id" value="<?= $user->id ?>">
                             <input type="hidden" name="tx_no" value="<?= uniqid($user->id) ?>">
                             <input type="hidden" name="tx_details" value="BANK TRANSFER">
-                            <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:rgb(232,10, 42); height:60px; width:200px; color:white;" type="submit">Send</button>
+                            <button class="submit" id="myBtn" style="border: none; border-radius:8px; background-color:#3333ff; height:60px; width:200px; color:white;" type="submit">Send</button>
 
 
                             <div id="myModal" class="modal">
                                 <div class="modal-content">
                                     <span class="close"><span class="pascode">enter a secure passcode</span> &times;</span>
                                     <div class="popup">
-                                        <img src=" <?=$company->favicon2 ?>" alt="Centralcreditsunion Logo" class="logo" />
+                                        <img src="../images/logo-v1.png" style="width: 150px; height:50px" alt="Centralcreditsunion Logo" class="logo" />
                                     </div>
                                     <input type="number" placeholder="enter a secure passcode" name="pin" id="pot" class="pot">
                                     <p class="wrong" id="wrong"></p>
